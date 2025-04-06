@@ -1,27 +1,30 @@
 Login (Logins.html)
-  ├──→ Farmer (loginpsgefarmer.html)
-  │     └──→ Farmer Dashboard (farmerweb.html)
-  │           ├──→ Product 
-  │           └──→ Waste Management
-  │           └──→Crop Disease Detection
-  |            └──→ADD FOR CONSUMER
-  |             └──→Market
-  |             └──→Future Demand
-  |             └──→Retailer Contact
-  |            └──→NEWS
-  |             └──→Govt Schemes
- ├──→ Retailer (loginpageretailer.html)
-  │     └──→ Retailer Dashboard (retaileroptions.html)
-  │           └──→ Fruits
-  |            └──→Vegetable
-  |             └──→Waste
-  |            └──→Dairy
-  |             └──→Spices
-  │              └──→Market
-  └──→ Consumer (loginpageconsumer)
-        └──→ Retailer Dashboard
-                    ├──→ Products
-                    
+│
+├── 👨‍🌾 Farmer (loginpagefarmer.html)
+│   └── 📋 Farmer Dashboard (farmerweb.html)
+│       ├── 🛒 Product
+│       ├── ♻️ Waste Management
+│       ├── 🌿 Crop Disease Detection
+│       ├── ➕ Add for Consumer
+│       ├── 📊 Market
+│       ├── 🔮 Future Demand
+│       ├── 📞 Retailer Contact
+│       ├── 🗞️ News
+│       └── 🏛️ Govt Schemes
+│
+├── 🏪 Retailer (loginpageretailer.html)
+│   └── 📋 Retailer Dashboard (retaileroptions.html)
+│       ├── 🍎 Fruits
+│       ├── 🥕 Vegetables
+│       ├── ♻️ Waste
+│       ├── 🥛 Dairy
+│       ├── 🌶️ Spices
+│       └── 📊 Market
+│
+└── 🧑‍💼 Consumer (loginpageconsumer.html)
+    └── 📋 Consumer Dashboard
+        └── 🛍️ Products
+
 you have to start with log in page then after clicking to perticular option youn will be directing to neext page.....
 
 
