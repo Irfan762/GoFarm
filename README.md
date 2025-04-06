@@ -33,7 +33,6 @@ you have to start with log in page then after clicking to perticular option youn
 
 
 
-Here's a beautifully explained **flowchart-style breakdown** of your **Login-to-Dashboard** navigation system for **Farmer, Retailer, and Consumer** in your app. Let’s structure this as a **visual hierarchy** with clear arrows and roles, and describe what happens at each level.
 
 ---
 
@@ -116,4 +115,4 @@ Your platform enables:
 - **Customized dashboards** for **Farmers**, **Retailers**, and **Consumers**.
 - **Multi-functional tools** like crop monitoring, government schemes, waste management, and product discovery.
 
-Would you like me to **generate a clean flowchart image** for this that you can add to your presentation or website?
+
