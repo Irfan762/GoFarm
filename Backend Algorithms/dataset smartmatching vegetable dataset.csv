@@ -1,0 +1,101 @@
+Vegetable Name,Vegetable Type,Farmer Name,Farmer Location,Contact Number,Quantity Available (kg)
+Onion,Small Onion,Ramesh Reddy,Rampur,+91-99476-34015,95 kg
+Beetroot,Crispy Beetroot,Ramesh Sharma,Pune,+91-78494-62351,20 kg
+Brinjal,Crispy Brinjal,Rajesh Verma,Rampur,+91-82018-47557,80 kg
+Cauliflower,Desi Cauliflower,Vijay Jha,Pune,+91-95300-88189,25 kg
+Fenugreek,Raw Fenugreek,Mukesh Yadav,Pune,+91-82861-92013,95 kg
+Garlic,White Garlic,Suresh Gowda,Satna,+91-75342-86364,10 kg
+Brinjal,Spicy Brinjal,Rajesh Reddy,Baramati,+91-83205-58923,15 kg
+Bell Pepper,Red Bell Pepper,Rajesh Verma,Kurnool,+91-83105-76400,90 kg
+Mustard Greens,Tender Mustard Greens,Dinesh Reddy,Ajmer,+91-73945-86868,20 kg
+Bottle Gourd,Green Bottle Gourd,Mahesh Sharma,Ujjain,+91-78399-32151,12 kg
+Bottle Gourd,Small Bottle Gourd,Amit Patel,Darbhanga,+91-90625-75595,50 kg
+Bottle Gourd,Baby Bottle Gourd,Rajesh Sharma,Ajmer,+91-92633-11465,12 kg
+Zucchini,Mature Zucchini,Amit Sharma,Kota,+91-74967-50374,25 kg
+Celery,Wild Celery,Amit Naik,Rampur,+91-99695-77978,35 kg
+Tomato,Black Tomato,Sunil Mishra,Guntur,+91-73819-23755,30 kg
+Corn,Baby Corn,Amit Jha,Rampur,+91-78968-30084,45 kg
+Peas,Green Peas,Rajesh Jha,Pune,+91-77615-54327,10 kg
+Potato,Black Potato,Suresh Verma,Nagpur,+91-82544-31157,35 kg
+Lettuce,Tender Lettuce,Rajesh Reddy,Solapur,+91-79182-37559,7 kg
+Cauliflower,Spicy Cauliflower,Ramesh Naik,Kurnool,+91-73463-66026,25 kg
+Cauliflower,Sweet Cauliflower,Sunil Gowda,Rampur,+91-79274-40578,5 kg
+Lettuce,Small Lettuce,Dinesh Mishra,Baramati,+91-70886-97507,50 kg
+Brinjal,Green Brinjal,Vijay Reddy,Kurnool,+91-78605-71039,10 kg
+Cauliflower,Raw Cauliflower,Vijay Mishra,Rampur,+91-92960-56941,10 kg
+Bottle Gourd,Long Bottle Gourd,Mukesh Sharma,Satna,+91-78383-98562,10 kg
+Broccoli,Round Broccoli,Dinesh Reddy,Guntur,+91-97050-39560,10 kg
+Tomato,Small Tomato,Rajesh Naik,Nagpur,+91-83510-74419,90 kg
+Broccoli,Green Broccoli,Rajesh Verma,Baramati,+91-70001-54480,4 kg
+Turnip,Crispy Turnip,Rajesh Reddy,Darbhanga,+91-71655-96739,80 kg
+Sweet Potato,Wild Sweet Potato,Vijay Sharma,Pune,+91-92956-61331,50 kg
+Ginger,Desi Ginger,Suresh Patel,Munger,+91-79654-87823,4 kg
+Spinach,Crispy Spinach,Vijay Patel,Guntur,+91-95833-20327,35 kg
+Radish,Mature Radish,Mukesh Singh,Solapur,+91-95607-61718,5 kg
+Yam,Red Yam,Mahesh Sharma,Nashik,+91-93288-85434,4 kg
+Peas,Red Peas,Suresh Reddy,Nashik,+91-85145-96348,5 kg
+Spinach,Spicy Spinach,Mahesh Naik,Guntur,+91-93952-97225,10 kg
+Chili,Tender Chili,Dinesh Verma,Rampur,+91-88760-41847,7 kg
+Celery,Desi Celery,Rajesh Gowda,Munger,+91-99360-88819,20 kg
+Zucchini,Green Zucchini,Dinesh Verma,Nashik,+91-96425-93286,90 kg
+Cucumber,Tender Cucumber,Dinesh Sharma,Kota,+91-78942-17704,5 kg
+Zucchini,Tender Zucchini,Mahesh Reddy,Solapur,+91-77400-79687,10 kg
+Broccoli,Baby Broccoli,Mahesh Singh,Rewa,+91-70570-53761,35 kg
+Celery,Hybrid Celery,Amit Reddy,Munger,+91-99458-57293,35 kg
+Beetroot,Hybrid Beetroot,Anil Sharma,Chittorgarh,+91-75418-83198,90 kg
+Potato,Tender Potato,Ramesh Mishra,Rewa,+91-74154-94356,25 kg
+Bell Pepper,Green Bell Pepper,Vijay Patel,Darbhanga,+91-93746-95114,15 kg
+Peas,Black Peas,Sunil Mishra,Nagpur,+91-92177-34067,12 kg
+Bitter Gourd,Organic Bitter Gourd,Sunil Yadav,Kurnool,+91-70638-43111,15 kg
+Pumpkin,Tender Pumpkin,Sunil Gowda,Munger,+91-92786-21926,35 kg
+Corn,Mature Corn,Suresh Verma,Nagpur,+91-70073-86292,30 kg
+Potato,Desi Potato,Dinesh Verma,Kota,+91-77113-78453,75 kg
+Radish,Long Radish,Dinesh Mishra,Jaunpur,+91-81965-38699,75 kg
+Ginger,Sweet Ginger,Sunil Mishra,Nashik,+91-88421-38931,90 kg
+Cauliflower,Green Cauliflower,Rajesh Yadav,Jaunpur,+91-97549-98825,7 kg
+Corn,Sweet Corn,Sunil Mishra,Alwar,+91-74134-15319,12 kg
+Bell Pepper,Mature Bell Pepper,Mukesh Naik,Kota,+91-78110-66170,40 kg
+Bitter Gourd,Mature Bitter Gourd,Mahesh Jha,Baramati,+91-83911-61421,10 kg
+Potato,Sweet Potato,Mahesh Yadav,Ujjain,+91-90928-87456,5 kg
+Turnip,Spicy Turnip,Sunil Reddy,Alwar,+91-93234-43433,5 kg
+Yam,Organic Yam,Dinesh Reddy,Ajmer,+91-92590-68781,50 kg
+Celery,Green Celery,Dinesh Yadav,Rampur,+91-87569-21442,60 kg
+Beetroot,Round Beetroot,Rajesh Naik,Guntur,+91-83378-18920,95 kg
+Cabbage,Wild Cabbage,Rajesh Reddy,Solapur,+91-94352-35605,95 kg
+Brinjal,Hybrid Brinjal,Dinesh Mishra,Satna,+91-71150-48789,12 kg
+Chili,Spicy Chili,Vijay Patel,Alwar,+91-80635-77117,25 kg
+Corn,Organic Corn,Amit Verma,Ujjain,+91-72196-18973,60 kg
+Yam,Spicy Yam,Ramesh Naik,Kota,+91-93176-18391,10 kg
+Potato,Small Potato,Amit Singh,Kurnool,+91-98460-47259,40 kg
+Sweet Potato,Red Sweet Potato,Sunil Naik,Chittorgarh,+91-81489-94389,20 kg
+Turnip,Black Turnip,Suresh Reddy,Jaunpur,+91-97089-72659,10 kg
+Peas,Spicy Peas,Anil Naik,Pune,+91-78906-30652,95 kg
+Radish,Crispy Radish,Ramesh Sharma,Chittorgarh,+91-75752-75039,60 kg
+Bitter Gourd,Yellow Bitter Gourd,Mahesh Sharma,Nashik,+91-70614-23331,40 kg
+Bell Pepper,Raw Bell Pepper,Anil Sharma,Nashik,+91-77262-66440,5 kg
+Yam,Small Yam,Amit Singh,Guntur,+91-93615-23033,80 kg
+Brinjal,Desi Brinjal,Mukesh Patel,Nashik,+91-83303-76415,75 kg
+Sweet Potato,Round Sweet Potato,Dinesh Sharma,Jaunpur,+91-82757-21375,15 kg
+Okra,Baby Okra,Sunil Singh,Jaunpur,+91-83287-56609,100 kg
+Cauliflower,Black Cauliflower,Rajesh Yadav,Ajmer,+91-98183-63482,30 kg
+Potato,Spicy Potato,Ramesh Gowda,Kurnool,+91-84111-14790,4 kg
+Spinach,Wild Spinach,Sunil Patel,Kota,+91-77132-90730,4 kg
+Pumpkin,Organic Pumpkin,Suresh Gowda,Kurnool,+91-83273-13649,80 kg
+Fenugreek,Red Fenugreek,Vijay Reddy,Alwar,+91-82461-89200,30 kg
+Mustard Greens,Round Mustard Greens,Anil Jha,Nagpur,+91-90901-36439,100 kg
+Okra,Wild Okra,Sunil Sharma,Solapur,+91-70222-31061,35 kg
+Yam,Baby Yam,Rajesh Patel,Rampur,+91-70983-95446,7 kg
+Tomato,Raw Tomato,Rajesh Naik,Ajmer,+91-87647-97665,15 kg
+Lettuce,Raw Lettuce,Anil Gowda,Nagpur,+91-90132-42829,20 kg
+Radish,Wild Radish,Anil Jha,Ballia,+91-95403-29662,7 kg
+Spinach,Round Spinach,Mahesh Patel,Kurnool,+91-72276-55009,15 kg
+Peas,Organic Peas,Mahesh Gowda,Satna,+91-82625-77672,4 kg
+Bottle Gourd,Sweet Bottle Gourd,Mahesh Jha,Munger,+91-86654-70395,20 kg
+Tomato,Mature Tomato,Mahesh Mishra,Nagpur,+91-93624-39713,40 kg
+Yam,Mature Yam,Dinesh Verma,Darbhanga,+91-95069-27449,7 kg
+Lettuce,Spicy Lettuce,Sunil Verma,Rewa,+91-98172-93672,25 kg
+Potato,Wild Potato,Vijay Singh,Guntur,+91-81734-29968,4 kg
+Tomato,Long Tomato,Mahesh Gowda,Ujjain,+91-96817-34725,100 kg
+Cabbage,Baby Cabbage,Ramesh Singh,Nashik,+91-74811-14513,4 kg
+Carrot,Yellow Carrot,Mahesh Sharma,Baramati,+91-79207-39220,4 kg
+Turnip,Round Turnip,Ramesh Mishra,Jaunpur,+91-80164-24369,90 kg
